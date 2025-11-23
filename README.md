@@ -6,20 +6,14 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/repository-template)
 
 
-# Template Repository
+# Repository Template
 
-This repository serves as a template for starting new projects.
+Template for new projects.
 
-## Features
+## Usage
 
-- Easy setup
-- Customizable configurations
-- Some popular badges already in place
-
-## Getting started
-
-To use this template, select it from the **Repository template** dropdown when creating a new repository.
+Select this template when creating a new repository.
 
 ## License
 
-This project is released under the [Unlicense](LICENSE) license.
+[Unlicense](LICENSE)
