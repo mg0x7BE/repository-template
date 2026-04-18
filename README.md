@@ -1,4 +1,4 @@
-
+![Workflow Status](https://github.com/mg0x7BE/repository-template/actions/workflows/dotnet.yml/badge.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mg0x7BE/repository-template)
 ![GitHub License](https://img.shields.io/github/license/mg0x7BE/repository-template)
 ![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/repository-template)
