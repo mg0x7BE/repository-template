@@ -42,7 +42,7 @@ Description.
 - [ ] Import `protect-the-master.json` via Settings > Rules > Rulesets > Import a ruleset
 - [ ] Delete `protect-the-master.json` from repo
 - [ ] Set repo description and topics on GitHub
-- 
+
 ## License
 
 [Unlicense](LICENSE)
