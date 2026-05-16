@@ -1,0 +1,31 @@
+{
+  "id": 16459226,
+  "name": "protect-the-master",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "mg0x7BE/mg0x7BE.github.io",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    },
+    {
+      "type": "non_fast_forward"
+    },
+    {
+      "type": "required_signatures"
+    },
+    {
+      "type": "required_linear_history"
+    }
+  ],
+  "bypass_actors": []
+}
